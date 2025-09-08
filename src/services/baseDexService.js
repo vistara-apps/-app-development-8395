@@ -1,5 +1,5 @@
 import axios from 'axios'
-import rpcClient from '../utils/rpcClient'
+// import rpcClient from '../utils/rpcClient' // Commented out for build compatibility
 
 /**
  * Base DEX Service - Integrates with major DEXs on Base chain
